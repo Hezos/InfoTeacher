@@ -1,0 +1,20 @@
+1. Saját weboldal készítése
+
+Valamilyen ingyenes honlapkészítő alkalmazás segítségével készítsen egy saját weboldalt a hobbijáról. Követelmények:
+
+(1.) A website álljon legalább 4-5 különböző, önállóan megnyíló oldalból (nem adott oldalon belül megnyíló másik szakaszból!), pl. bemutatkozás, kapcsolat, galéria stb.
+
+(2.) legyenek benne szövegek (ahol bemutatja a hobbijával kapcsolatos fontos tudnivalókat;
+
+(3.) képek a hobbival kapcsolatban;
+
+(4.) videók (nem kell saját készítésűnek lenni) a hobbival kapcsolatban;
+
+(5.) külső oldalakat meghívó linkek is.
+
+AZONOSÍTÁS: a nyitóoldalon legyen egy felismerhető fotó Önről, ahogy az adott hobbit végzi (ha nem tud ilyen fotót feltölteni, válasszon a másik két feladatból). A képaláírásban pedig szerepeljen a monogramja.
+
+A weboldal linkjét másolja be egy dokumentumba és azt töltse fel az e-learning rendszerbe.
+
+A weboldal természetesen a gyakorlati jegy megszerzése után törölhető.
+-gcg3ghdrfsbnh7h6.westeurope-01.azurewebsites.net
