@@ -13,7 +13,7 @@ return (
             Az én hobbim: alkalmazások készítése
         </h1>
         <div class='text-center'  style={{width: "100%" }}>
-                 <img style={{width:'50%'}} src={require("../src/assets/MainPage.jpg")} alt='Profile image goes here'/>
+                 <img style={{width:'50%'}} src={require("../src/assets/MainPage.jpg")} alt='' />
             
         </div>
         <br></br>

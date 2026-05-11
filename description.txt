@@ -17,4 +17,7 @@ AZONOSÍTÁS: a nyitóoldalon legyen egy felismerhető fotó Önről, ahogy az a
 A weboldal linkjét másolja be egy dokumentumba és azt töltse fel az e-learning rendszerbe.
 
 A weboldal természetesen a gyakorlati jegy megszerzése után törölhető.
--gcg3ghdrfsbnh7h6.westeurope-01.azurewebsites.net
+https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=react
+https://portal.azure.com/?l=en.en-us#browse/Microsoft.Web%2FStaticSites
+
+https://handin-dnhye8egg3cxdnb7.germanywestcentral-01.azurewebsites.net/
